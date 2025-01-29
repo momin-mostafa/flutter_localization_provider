@@ -4,5 +4,7 @@
     "description": "The conventional newborn programmer greeting"
   },
   "counter" : "Counter",
-  "title" : "English"
+  "title" : "English",
+  "name" : "hello {userName}",
+  "nameNtitle" : "hello {userName}, you must be a {jobTitle}"
 }

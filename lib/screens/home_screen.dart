@@ -28,6 +28,14 @@ class _MyHomePageState extends State<MyHomePage> {
               context.localization.counter,
               style: Theme.of(context).textTheme.headlineMedium,
             ),
+            Text(
+              context.localization.name("Tamim"),
+              style: Theme.of(context).textTheme.headlineMedium,
+            ),
+            Text(
+              context.localization.nameNtitle("Tamim", "Software Engineer"),
+              style: Theme.of(context).textTheme.headlineMedium,
+            ),
           ],
         ),
       ),

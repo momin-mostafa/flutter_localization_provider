@@ -1,5 +1,7 @@
 {
   "helloWorld": "¡Hola Mundo!",
   "counter" : "Counter In ES",
-  "title" : "Spanish"
+  "title" : "Spanish",
+  "name" : "¡Hola {userName}",
+  "nameNtitle" : "¡Hola {userName}, you must be a {jobTitle} (in espanish)"
 }
